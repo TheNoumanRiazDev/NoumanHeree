@@ -73,6 +73,9 @@ background-color: #15314c;
     float: left;
     margin-right: 30px;
 }
+.mountain-img {
+    max-width: 100%;
+}
 .nomi-pic {
     width: 25%;
     margin-top: 30px;
