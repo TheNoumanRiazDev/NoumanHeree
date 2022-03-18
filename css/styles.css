@@ -51,11 +51,13 @@ background-color: #15314c;
     position: absolute;
     left: 300px;
     bottom: 300px;
+    max-width: 100%;
 }
 .top-cloud {
     position: absolute;
     right: 300px;
     top: 50px;
+    max-width: 100%;
 }
 .skill-row {
     width: 50%;
